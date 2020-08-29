@@ -12,6 +12,3 @@ I'm from Thailand (Bangkok), and I do Design and Development. I really enjoy lea
 * 🚙  University Car Reservation System
 * 🍝  TumTumInter Restaurant Website
 * 🩺  SaveMed Website (Covid-19)
-
-### Personal Blog 
-* https://sites.google.com/view/halice. ✨

@@ -1,4 +1,4 @@
-### Hello 😄
+###🎊 Hi there 🎉
 
 I'm MidnightCore from Thailand, and I do Design and Development. I really enjoy learning languages and frameworks like Angular and React, as well as work in WordPress. I also enjoy ui, ux, and design in general. 
 You can check out my Blog at https://sites.google.com/view/halice. ✨

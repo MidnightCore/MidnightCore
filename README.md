@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+I'm Mhanmai from Thailand, and I do Design and Development. I really enjoy learning languages and frameworks like Angular and React, as well as work in WordPress. I also enjoy ui, ux, and design in general. You can check out my Blog at https://sites.google.com/view/halice.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MidnightCore)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MidnightCore/MidnightCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

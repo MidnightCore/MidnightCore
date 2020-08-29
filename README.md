@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/MidnightCore/MidnightCore/blob/master/Midnight%20dev.png)
 ### 🎊 Mhanmai Titiyakrun 🎉
 
 I'm from Thailand (Bangkok), and I do Design and Development. I really enjoy learning languages and frameworks like Angular and React, as well as work in WordPress. I also enjoy ui, ux, and design in general. You can check out my Google site at https://sites.google.com/view/halice. ✨

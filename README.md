@@ -14,4 +14,4 @@ I'm from Thailand (Bangkok), and I do Design and Development. I really enjoy lea
 * 🩺  SaveMed Website (Covid-19)
 
 ### Website 
-You can check out my Google site at https://sites.google.com/view/halice. ✨
+* You can check out my Google site at https://sites.google.com/view/halice. ✨

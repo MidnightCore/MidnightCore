@@ -13,5 +13,5 @@ I'm from Thailand (Bangkok), and I do Design and Development. I really enjoy lea
 * 🍝  TumTumInter Restaurant Website
 * 🩺  SaveMed Website (Covid-19)
 
-### Website 
-* You can check out my Google site at https://sites.google.com/view/halice. ✨
+### Personal Blog 
+* https://sites.google.com/view/halice. ✨

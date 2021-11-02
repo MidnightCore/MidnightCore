@@ -19,5 +19,4 @@ I really enjoy learning languages and frameworks like Codeigniter and React, as 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 
-<img src="https://tenor.com/view/error-oncall-no-internet-connection-gmae-google-gif-17443142">
 #### Glad to see you here :  ![Visits Badge](https://badges.pufler.dev/visits/MidnightCore/MidnightCore)

@@ -9,10 +9,8 @@ I really enjoy learning languages and frameworks like Codeigniter and React, as 
 * 💻  html, css, js, php
 * 🎨  Bootstrap, MaterializeCSS
 
-![](https://github.com/MidnightCore/MidnightCore/blob/master/html5.svg)
 
-![](https://img.shields.io/badge/<![](https://github.com/MidnightCore/MidnightCore/blob/master/html5.svg)>-HTML-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-HTML-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-JAVASCRIPT-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-PHP-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)

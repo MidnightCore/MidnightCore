@@ -1,5 +1,5 @@
 ![](https://github.com/MidnightCore/MidnightCore/blob/master/Cordale.png)
-## Hi Guys <img src="https://github.com/MidnightCore/MidnightCore/blob/master/wave-hello.gif" width="30px">
+## Hi Guys <img src="https://github.com/MidnightCore/MidnightCore/blob/master/waving-hand-joypixels.gif" width="30px">
 
 
 Hello from Thailand, I'am a Newbie Programmer. 

@@ -1,5 +1,5 @@
 ![](https://github.com/MidnightCore/MidnightCore/blob/master/Cordale.png)
-## Hi Guys <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+## Hi Guys <img src="https://tenor.com/bEAlI.gif" width="30px">
 
 
 Hello from Thailand, I'am a Newbie Programmer. 

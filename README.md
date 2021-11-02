@@ -1,4 +1,4 @@
-![](https://github.com/MidnightCore/MidnightCore/blob/master/banner.png)
+![](https://github.com/MidnightCore/MidnightCore/blob/master/Cordale.png)
 ## Hello World!
 
 Hello from Thailand guys, I'am a Newbie Programmer. 

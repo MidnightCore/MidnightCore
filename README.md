@@ -7,14 +7,14 @@ I really enjoy learning languages and frameworks like Codeigniter and React, as 
 <br>
 <br>
 ## 🎨 Skills and Experience
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html5&logoColor=white&color=FF00A6)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=FF00A6)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Php&logoColor=white&color=FF00A6)
-![](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=Python&logoColor=white&color=FF00A6)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html5&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Php&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=Python&logoColor=white&color=042460)
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=FFD000)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=FFD000)
-![](https://img.shields.io/badge/Style-MaterializeCSS-informational?style=flat&logo=Material-UI&logoColor=white&color=FFD000)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=587d9f)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=587d9f)
+![](https://img.shields.io/badge/Style-MaterializeCSS-informational?style=flat&logo=Material-UI&logoColor=white&color=587d9f)
 
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)

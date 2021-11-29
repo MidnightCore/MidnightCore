@@ -2,7 +2,7 @@
 ## Hi Guys <img src="https://github.com/MidnightCore/MidnightCore/blob/master/waving-hand-joypixels.gif" width="30px">
 
 
-Hello from Thailand, I'am a Newbie Programmer. 
+Hello from Thailand, I'm a Newbie Programmer. 
 I really enjoy learning languages and frameworks like Codeigniter and React, as well as work in WordPress. I also enjoy ui, ux, and design in general.
 <br>
 <br>

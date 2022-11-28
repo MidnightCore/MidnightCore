@@ -1,4 +1,5 @@
-![](https://github.com/MidnightCore/MidnightCore/blob/master/Cordale.png)
+<!-- ![](https://github.com/MidnightCore/MidnightCore/blob/master/Cordale.png) -->
+![alt text](https://github.com/MidnightCore/MidnightCore/blob/master/midnight_banner.png?raw=true)
 ## 🙏 Hi Guys 🙏
 <!-- <img src="https://github.com/MidnightCore/MidnightCore/blob/master/waving-hand-joypixels.gif" width="30px"> -->
 

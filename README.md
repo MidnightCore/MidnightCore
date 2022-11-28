@@ -30,9 +30,9 @@ I really enjoy learning languages and frameworks like Codeigniter and React, as 
 <a href="https://github.com/MidnightCore">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MidnightCore&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&layout=compact" alt="GitHub Stats for MidnightCore" width="700"/>
 </a>
-<a href="https://github.com/MidnightCore">
-  <img src="[https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly](https://github-readme-streak-stats.herokuapp.com?user=MidnightCore&theme=tokyonight&date_format=j%20M%5B%20Y%5D)" width="700">
-</a>
+<!-- <a href="https://github.com/MidnightCore"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MidnightCore&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="700">
+<!-- </a> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MidnightCore&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
